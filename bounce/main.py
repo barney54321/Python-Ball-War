@@ -1,7 +1,7 @@
 import pygame
 import sys
 
-from scene import Scene
+from bounce.scene import Scene
 
 
 FPS = 220
